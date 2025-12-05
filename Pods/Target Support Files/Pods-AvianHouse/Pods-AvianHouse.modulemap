@@ -1,0 +1,6 @@
+module Pods_AvianHouse {
+  umbrella header "Pods-AvianHouse-umbrella.h"
+
+  export *
+  module * { export * }
+}
